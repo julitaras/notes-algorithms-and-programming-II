@@ -12,3 +12,13 @@ Catedra Mendez
 - Arboles
 - Hash
 - Grafos
+
+
+### TDAs realizados:
+- [Pila, Cola, Lista](https://github.com/julitaras/tda_list)
+- [ABB](https://github.com/julitaras/tda_abb)
+- Hash
+
+### Trabajos practicos realizados:
+- [Tp1 - Batalla de pokemones](https://github.com/julitaras/batallaPokemons)
+- [Tp2 - Atrapalos a todos](https://github.com/julitaras/tp2)
