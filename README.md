@@ -1,6 +1,6 @@
 # Apuntes de temas de Algoritmos y Programcion II
 
-Catedra Mendez
+75.40 Algoritmos y Programación II - Catedra Mariano Mendez
 
 ### Temas vistos:
 - Recursividad
