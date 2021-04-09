@@ -1,6 +1,6 @@
 # Apuntes de temas de Algoritmos y Programcion II
 
-Catedra Mendez
+75.41 Algoritmos y Programación II - Catedra Mariano Mendez
 
 ### Temas vistos:
 - Recursividad
@@ -12,3 +12,13 @@ Catedra Mendez
 - Arboles
 - Hash
 - Grafos
+
+
+### TDAs realizados:
+- [Pila, Cola, Lista](https://github.com/julitaras/tda_list)
+- [ABB](https://github.com/julitaras/tda_abb)
+- Hash
+
+### Trabajos practicos realizados:
+- [Tp1 - Batalla de pokemones](https://github.com/julitaras/batallaPokemons)
+- [Tp2 - Atrapalos a todos](https://github.com/julitaras/tp2)
