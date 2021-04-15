@@ -17,7 +17,7 @@
 ### TDAs realizados:
 - [Pila, Cola, Lista](https://github.com/julitaras/tda_list)
 - [ABB](https://github.com/julitaras/tda_abb)
-- Hash
+- [Hash](https://github.com/julitaras/tda_hash)
 
 ### Trabajos practicos realizados:
 - [Tp1 - Batalla de pokemones](https://github.com/julitaras/batallaPokemons)
