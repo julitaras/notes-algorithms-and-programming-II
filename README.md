@@ -3,7 +3,7 @@
 75.41 Algoritmos y Programación II - Catedra Mariano Mendez
 
 ### Temas vistos:
-- Recursividad
+- [Recursividad](https://github.com/julitaras/recursividad)
 - TDAs
 - Analisis de algoritmos
 - Memoria 
